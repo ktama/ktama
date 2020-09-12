@@ -1,4 +1,6 @@
-### Hi there 👋
+# 自己紹介
+
+トロフィーをプロフィールに追加したら頑張ってコミットするんじゃないかって思った。
 
 <!--
 **ktama/ktama** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +16,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+# Trophy
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=ktama)](https://github.com/ryo-ma/github-profile-trophy)
